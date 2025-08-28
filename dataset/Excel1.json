@@ -13,7 +13,8 @@
 				"type": "AzureBlobStorageLocation",
 				"fileName": "GPT License details.xlsx",
 				"container": "files"
-			}
+			},
+			"firstRowAsHeader": false
 		},
 		"schema": [
 			{
